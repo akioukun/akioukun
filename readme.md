@@ -1,19 +1,24 @@
-### Skills
+<h1 align="center">Hi 👋, I'm Akio</h1>
+<h3 align="center">A passionate someone from this world.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akioukun&label=Profile%20views&color=0e75b6&style=flat" alt="akioukun" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akioukun" alt="akioukun" /></a> </p>
+
+- 🔭 I’m currently working on **nothing**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
 </p>
 
-### Socials
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
 
-<p align="left"> <a href="https://discord.com/users/Akioukun#0480" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/akioukun" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/akioukun"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="akioukun" /></a></p><br><br>
 
-<b>My GitHub Stats</b>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akioukun&show_icons=true&locale=en&layout=compact" alt="akioukun" /></p>
 
-<a href="http://www.github.com/akioukun"><img src="https://github-readme-stats.vercel.app/api?username=akioukun&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="akioukun's GitHub stats" /></a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akioukun&show_icons=true&locale=en" alt="akioukun" /></p>
 
-<a href="http://www.github.com/akioukun"><img src="https://github-readme-streak-stats.herokuapp.com/?user=akioukun&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/akioukun" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akioukun&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
- ![My Discord](https://discord-readme-badge.vercel.app/api?id=319824115747913738)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akioukun&" alt="akioukun" /></p>
