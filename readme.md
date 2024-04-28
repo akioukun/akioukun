@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Akio</h1>
-<h3 align="center">A passionate someone from this world.</h3>
+<h3 align="center">I work on several anime games.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akioukun&label=Profile%20views&color=0e75b6&style=flat" alt="akioukun" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akioukun" alt="akioukun" /></a> </p>
-
-- 🔭 I’m currently working on **nothing**
 
 
 <h3 align="left">Connect with me:</h3>
@@ -24,8 +22,6 @@
 
 <p><a href="https://www.buymeacoffee.com/akioukun"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="akioukun" /></a></p><br><br>
 <h3 alignt="left">Stats:</h3>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akioukun&show_icons=true&locale=en&layout=compact" alt="akioukun" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akioukun&show_icons=true&locale=en" alt="akioukun" /></p>
 
